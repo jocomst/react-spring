@@ -1,0 +1,3 @@
+# Project exclude paths
+/react-spring/node_modules/
+/react-spring/src/main/resources/static/built/
